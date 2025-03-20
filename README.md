@@ -14,3 +14,6 @@
 (The File Integrity Checker is a crucial tool for ensuring file security, preventing unauthorized changes, and detecting tampering. By leveraging cryptographic hash functions, users can validate file authenticity efficiently. Whether for security professionals, developers, or everyday users, this tool provides a simple and effective solution for verifying file integrity.
 
 This project is a great starting point for learning about file security, hashing techniques, and system monitoring. By continuously improving and automating the tool, we can enhance its functionality and make it more robust for real-world applications.)
+# out put
+
+![Image](https://github.com/user-attachments/assets/1426b6f7-4362-41e7-b152-6aff4f91be2e)
